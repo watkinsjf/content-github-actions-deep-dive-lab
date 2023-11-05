@@ -1,4 +1,4 @@
-ame: Deploy site to production bucket
+name: Deploy site to production bucket
 
 on:
   push:
